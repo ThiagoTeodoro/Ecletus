@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Ecletus Translator</Name>
+		<Author>Thiago Teodoro</Author>
+		<Version>1.0</Version>
+	</Information>
+	<Package>Ecletus.Ecletus.Main</Package>
+</Plugin>
